@@ -6,8 +6,8 @@ A Python-based service for converting audio files into viseme timing sequences. 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/edmundman/Viseme_generator
+cd Viseme_generator
 ```
 2. Install the required dependencies:
 ```bash
